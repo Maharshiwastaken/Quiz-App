@@ -21,55 +21,55 @@ function Result() {
         score++
     }
 
-    //Validate question 1
+    //Validate question 2
     const userAnsTwo = document.querySelector('input[name="q2"]:checked')
     if (userAnsTwo && userAnsTwo.value === correctAnswers.q2) {
         score++
     }
 
-    //Validate question 1
+    //Validate question 3
     const userAnsThree = document.querySelector('input[name="q3"]:checked')
     if (userAnsThree && userAnsThree.value === correctAnswers.q3) {
         score++
     }
 
-    //Validate question 1
+    //Validate question 4
     const userAnsFour = document.querySelector('input[name="q4"]:checked')
     if (userAnsFour && userAnsFour.value === correctAnswers.q4) {
         score++
     }
 
-    //Validate question 1
+    //Validate question 5
     const userAnsFive = document.querySelector('input[name="q5"]:checked')
     if (userAnsFive && userAnsFive.value === correctAnswers.q5) {
         score++
     }
 
-    //Validate question 1
+    //Validate question 6
     const userAnsSix = document.querySelector('input[name="q6"]:checked')
     if (userAnsSix && userAnsSix.value === correctAnswers.q6) {
         score++
     }
 
-    //Validate question 1
+    //Validate question 7
     const userAnsSeven = document.querySelector('input[name="q7"]:checked')
     if (userAnsSeven && userAnsSeven.value === correctAnswers.q7) {
         score++
     }
 
-    //Validate question 1
+    //Validate question 8
     const userAnsEight = document.querySelector('input[name="q8"]:checked')
     if (userAnsEight && userAnsEight.value === correctAnswers.q1) {
         score++
     }
 
-    //Validate question 1
+    //Validate question 9
     const userAnsNine = document.querySelector('input[name="q9"]:checked')
     if (userAnsNine && userAnsNine.value === correctAnswers.q9) {
         score++
     }
 
-    //Validate question 1
+    //Validate question 10
     const userAnsTen = document.querySelector('input[name="q10"]:checked')
     if (userAnsTwo && userAnsTwo.value === correctAnswers.q10) {
         score++
