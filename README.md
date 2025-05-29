@@ -42,5 +42,5 @@ As I have now realised after months of learning, this project uses only client-s
 
 ## 🧑‍💻 Author
 
-Your Name  
-[Your GitHub Profile](https://github.com/yourusername)
+Maharshi
+[Your GitHub Profile](https://github.com/maharshiwastaken)
