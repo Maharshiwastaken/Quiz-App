@@ -43,4 +43,4 @@ As I have now realised after months of learning, this project uses only client-s
 ## 🧑‍💻 Author
 
 Maharshi
-[Your GitHub Profile](https://github.com/maharshiwastaken)
+[Github](https://github.com/maharshiwastaken)
